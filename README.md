@@ -1,4 +1,4 @@
-# IPL Match Predictor
+# IPL Match Predictor - Full Stack Web Development Project
 
 An AI-powered web application that predicts the win probability of IPL matches using machine learning.
 
