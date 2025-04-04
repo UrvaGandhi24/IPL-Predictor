@@ -10,6 +10,10 @@ An AI-powered web application that predicts the win probability of IPL matches u
 - Visual probability gauge
 - Match situation analysis
 - Responsive and modern UI
+- DataSet Taken From : 
+'''bash
+https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020?resource=download
+'''
 
 ## Tech Stack
 
